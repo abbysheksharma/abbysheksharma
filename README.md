@@ -1,11 +1,10 @@
 # 💫 About Me:
 <p dir="auto">
-  🔭 <strong>I’m currently working on:</strong> <br />Dynamic Portfolio Project<br /><br />
-  👯
-  <strong>I’m looking to collaborate on:</strong> <br />Fullstack projects<br /><br />🌱
-  <strong>I’m currently learning:</strong> <br />MongoDB & AWS<br /><br />💬 <strong>Ask me about:</strong> <br />HTML, CSS, SCSS,
-JavaScript, React, Nextjs, Node.js, AWS<br /><br />⚡
-  <strong>Experience:</strong> <br />10 Years of Experience in Teaching & coding
+  👨‍💻 <strong>I’m currently working on:</strong> Dynamic Portfolio Project<br /><br />
+  🤝 <strong>I’m looking to collaborate on:</strong> Fullstack projects<br /><br />
+  🌱 <strong>I’m currently learning:</strong> MongoDB & AWS<br /><br />
+  🙋 <strong>Ask me about:</strong> <br />HTML, CSS, SCSS, JavaScript, React, Nextjs, Node.js, AWS<br /><br />
+  🚀 <strong>Experience:</strong> <br />10 Years of Experience in Teaching & coding
 </p>
 
 
