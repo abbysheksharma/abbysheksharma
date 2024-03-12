@@ -4,7 +4,7 @@
   🤝 <strong>I’m looking to collaborate on:</strong> <small>Fullstack projects</small><br /><br />
   🌱 <strong>I’m currently learning:</strong> <small>MongoDB & AWS</small><br /><br />
   🙋 <strong>Ask me about:</strong> <small>HTML, CSS, SCSS, JavaScript, React, Nextjs, Node.js, AWS</small><br /><br />
-  🚀 <strong>Experience:</strong> <small>10 Years of Experience in Teaching & coding</small>
+  🚀 <strong>Experience:</strong> <small>10 Years of Coding & Teaching Experience</small>
 </p>
 
 
